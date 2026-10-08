@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Muhammad Fadhli Nur Luthfan
+# Muhammad Fadhli Nur Luthfan
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const fadhli = {
@@ -18,14 +18,14 @@ const fadhli = {
 };
 ```
 
-💡 Passionate about crafting **AI-driven solutions** that solve real-world problems  
-🔬 Currently exploring **Edge AI deployment** and embedded vision systems  
-🌱 Always learning and building innovative projects  
-⚡ Fun fact: I believe the best code is the code you don't have to write!
+Passionate about crafting **AI-driven solutions** that solve real-world problems  
+Currently exploring **Edge AI deployment** and embedded vision systems  
+Always learning and building innovative projects  
+Fun fact: I believe the best code is the code you don't have to write!
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,php,ts,react,nextjs,vue,nodejs,laravel,flask,pytorch,tensorflow,opencv,arduino,raspberrypi,docker,git&perline=12" />
@@ -34,7 +34,7 @@ const fadhli = {
 ---
 
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
